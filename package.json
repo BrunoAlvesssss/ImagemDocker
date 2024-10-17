@@ -1,0 +1,12 @@
+ {
+  "name": "meu-app",
+  "version": "1.0.0",
+  "description": "Um exemplo simples de app Node.js para testar imagens",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
